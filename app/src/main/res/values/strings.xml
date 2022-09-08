@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Atividadequiz</string>
+    <string name="title_activity_configuracao">configuracao</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="Masp">MASP quiz</string>
+    <string name="jogar">Jogar</string>
+    <string name="creditos">Créditos</string>
+    <string name="site">Site</string>
+    <string name="criadores">Criadores</string>
+    <string name="instagram">Instagram</string>
+    <string name="voltar">Voltar</string>
+    <string name="fim">Fim de jogo</string>
+    <string name="fim2">Sacuda o celular ou clique em voltar para tentar novamente</string>
+    <string name="pergunta1">Pergunta 1</string>
+    <string name="pergunta2">Pergunta 2</string>
+    <string name="pergunta3">Pergunta 3</string>
+    <string name="perg1">Em qual ano foi fundado o MASP ?</string>
+    <string name="perg2">Onde foi seu local de fundação ?</string>
+    <string name="perg3">Onde está o MASP atualmente ?</string>
+    <string name="thi">Insta thiago</string>
+    <string name="aki">Insta Henri</string>
+    <string name="res1per3">Avenida Paulista</string>
+    <string name="res2per3">rua 7 de Abril</string>
+    <string name="res3per3">Gotham city</string>
+    <string name="parabens">parabéns</string>
+    <string name="salvar">Salvar foto</string>
+    <string name="res1per1">1947</string>
+    <string name="res2per1">1956</string>
+    <string name="res3per1">2022</string>
+    <string name="res1per2">rua 7 de Abril</string>
+    <string name="res2per2">aqui</string>
+    <string name="buscar">Buscar</string>
+    <string name="remover">Remover</string>
+    <string name="Pesquisa">Pesquise qualquer localização, assim podera encontar o MASP e outros lugares</string>
+    <string name="voltarvalor">Retornar valor</string>
+    <string name="mapa">Mapa</string>
+    <string name="res3per2">avenida paulista</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
